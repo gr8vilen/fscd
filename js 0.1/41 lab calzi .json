@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "timestamp": "2025-07-19T20:18:19.657Z",
+  "files": {
+    "main.js": {
+      "content": "//var a = 10\n//var b = Number(prompt(\"enter value of B\") ) \n\n//var add = a+b\n\n//console.log(\"a+b=\" + add)\n",
+      "active": true
+    },
+    "solution.js": {
+      "content": "// solution.js\n\nvar a = Number(prompt(\"enter value of A\") ) \nvar b = Number(prompt(\"enter value of B\") ) \nconsole.log(\"a+b=\" + (a+b))\nconsole.log(\"a-b=\" + (a-b))\nconsole.log(\"a*b=\" + (a*b))\nconsole.log(\"a/b=\" + (a/b))\n",
+      "active": false
+    }
+  }
+}
